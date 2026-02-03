@@ -1,0 +1,19 @@
+// (Variables, functions, mixins)
+@use "abstracts";
+
+// (Boilerplate, typography)
+@use "base";
+
+// (Buttons, sliders, cards)
+@use "components";
+
+// (Global structural elements)
+@use "layout";
+
+// (Page-specific styles)
+@use "pages";
+
+@use "themes";
+
+// (Third-party CSS)
+@use "vendors";
